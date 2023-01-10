@@ -1,26 +1,19 @@
-<h1 align="center">Hi there, I'm Vladimir <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">
+  Hi there, I'm Vladimir <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </div>
-<div>
-  For today, I am learn backend development in Java (Spring)<br>
-  I write in C++, PHP, Java, Scala
-</div>
-<br>
+
+<ul>
+  <li>For today, I am studying backend development in Java (Spring)</li>
+  <li>I am open for an internship/job as a junior backend developer</li>
+</ul>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvtrnv&theme=solarized_dark)
+
+<p>Sometimes I practice tasks on codewars</p>
 <a  href="https://www.codewars.com/users/theyong735"><img src="https://www.codewars.com/users/theyong735/badges/large"></a>
 
-
-<!--
-**vvtrnv/vvtrnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I hope this year I will definitely start keeping an account...</p>
