@@ -2,7 +2,12 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </div>
-
+<div>
+  For today, I am learn backend development in Java (Spring)<br>
+  I write in C++, PHP, Java, Scala
+</div>
+<br>
+<a  href="https://www.codewars.com/users/theyong735"><img src="https://www.codewars.com/users/theyong735/badges/large"></a>
 
 
 <!--
