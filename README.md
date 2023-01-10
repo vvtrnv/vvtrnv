@@ -7,12 +7,15 @@
 </div>
 
 <ul>
-  <li>For today, I am studying backend development in Java (Spring)</li>
-  <li>I am open for an internship/job as a junior backend developer</li>
+  <li>For today, I am studying backend development in Java (Spring) &#128216;</li>
+  <li>I am open for an internship/job as a junior backend developer &#128104;&#8205;&#128187;</li>
 </ul>
+
+<h2>🔧 Languages</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvtrnv&theme=github_dark)
 
+<h2>&#128565; Other...</h2>
 <p>Sometimes I practice tasks on codewars</p>
 <a href="https://www.codewars.com/users/theyong735"><img src="https://www.codewars.com/users/theyong735/badges/large"></a>
 
