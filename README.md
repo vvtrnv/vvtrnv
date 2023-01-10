@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2264CF&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </div>
 
 <ul>
@@ -11,9 +11,10 @@
   <li>I am open for an internship/job as a junior backend developer</li>
 </ul>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvtrnv&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvtrnv&theme=github_dark)
 
 <p>Sometimes I practice tasks on codewars</p>
-<a  href="https://www.codewars.com/users/theyong735"><img src="https://www.codewars.com/users/theyong735/badges/large"></a>
+<a href="https://www.codewars.com/users/theyong735"><img src="https://www.codewars.com/users/theyong735/badges/large"></a>
 
+<br><br>
 <p>I hope this year I will definitely start keeping an account...</p>
