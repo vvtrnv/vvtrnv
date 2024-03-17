@@ -14,6 +14,3 @@
 <h2>&#128204; Contacts</h2>
 <p>&#9993; Email: vladimir.trnv@yandex.ru</p>
 <p>&#128241; Telegram: <a href="https://telegram.me/vvtrnv">@vvtrnv</a></p>
-
-<br><br>
-<p>I hope this year I will definitely start keeping an account...</p>
